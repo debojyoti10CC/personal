@@ -5,7 +5,9 @@
 ### 🏫 Institute of Engineering and Management, Kolkata | B.Tech CSE
 
 ---
+![Me](./logo.jpeg)
 
+---
 ### 📌 About Me
 - 🔭 Currently working on **AI-driven Crime Detection System, AgroTech AI Platform, and Autonomous Robotics**
 - 🤖 Passionate about **AI, Robotics, and IoT-integrated Smart Solutions**
@@ -27,23 +29,35 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=debojyoti10CC&layout=compact&langs_count=5&theme=dracula" height="150" alt="Most Used Languages"/>
 </div>
 
----
 
 
-### 🏆 Achievements
-- 🚀 **Ranked 35th out of 2000+ teams** at **DevFest AI 2024**
-- 🤝 **Participated in hackathons and project exhibitions at IIT & IEM**
+##  Achievements
+-  **Ranked 35th out of 2000+ teams** at **DevFest AI 2024**
+-  **Participated in hackathons and project exhibitions at IIT & IEM**
+-  **1st Runner's Up at ICYIM 2025**
+-  **Most Innovative Project at HackSynthesis 2.0**
 
+##  Hackathons and Experience
 
----
+-  **Craftncode Hackathon 2024**
+-  **KSHITIJ 2025**
+-  **IDE Bootcamp Ranchi 2025**
+-  **Hexafalls 2025**
+-  **HackSynthesis 2.0**
+-  **Smart Make-A-Thon 2025**
+-  **Avalanche Team1 Hackathon**
+-  **Algorand Buildstation Hackathon**
 
-### 🛠️ Current Projects
+## Leadership Roles
 
-- 🌱 **Smart Agriculture AI Platform**
-- 🚑 **Hospital Ambulance GPS Monitoring System**
-- 🤖 **AI-Powered Industrial Automation & Robotics**
-
----
+-  **Volunteer – SMF 2024**
+-  **Volunteer – Mechtronica 2024**
+-  **Volunteer – Innovación 2025**
+-  **Core Team Member – DDC 2025**
+-  **Coordinator – IEM Comicverse 2025**
+-  **Organizer – Smart Make-a-thon 2025**
+-  **Core Team Member – GDG IEM**
+-  **Content Team Lead – Algozenith IEM**
 
 ## Languages & Frameworks
 
