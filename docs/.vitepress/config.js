@@ -105,12 +105,7 @@ export default defineConfig({
     ],
     
     // Single sidebar configuration for all pages
-    sidebar: {
-      '/': getMainSidebar(),
-      '/blogs/': getMainSidebar(),
-      '/page2': getMainSidebar(),
-      '/page3': getMainSidebar(),
-    },    
+    sidebar: getMainSidebar(),    
     
     socialLinks: [
       { icon: 'github', link: 'https://github.com/debojyoti10CC' },
