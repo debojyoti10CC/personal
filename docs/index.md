@@ -5,7 +5,7 @@
 ### 🏫 Institute of Engineering and Management, Kolkata | B.Tech CSE
 
 ---
-![Me](./logo.jpeg)
+![Me](/logo.jpeg)
 
 ---
 ### 📌 About Me
