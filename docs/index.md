@@ -1,43 +1,49 @@
----
-layout: home
-hero:
-  name: 'Debojyoti De Majumder'
-  tagline: 'Developer | Hackathon Enthusiast | Robotics & AI Innovator'
-  actions:
-    - theme: brand
-      text: 'View My Work'
-      link: '/projects'
-    - theme: alt
-      text: 'Contact Me'
-      link: '/contact'
-features:
-  - icon: ⚙️
-    title: 'Innovative Solutions'
-    details: 'Building hardware and software projects, from gesture-controlled robots to AI-driven systems.'
-  - icon: 🎨
-    title: 'Creative Design'
-    details: 'Designing intuitive and interactive web experiences, blending aesthetics with functionality.'
-  - icon: 🚀
-    title: 'Continuous Learning'
-    details: 'Exploring AI, robotics, 3D printing, and emerging technologies to stay ahead.'
-footer:
-  message: 'Built with ❤️ using VitePress'
-  copyright: '© 2025 Debojyoti DM'
+# Hi , I'm Debojyoti De Majumder
+
+## Student at Institute of Engineering & Management (IEM) | 6x Hackathon  | 1x Hackathon winner 🏆| Finalist @BPlan Kshitij | Finalist @IDE Bootcamp Ranchi | 1st Runners up at ICYIM 2025
+
+### 🏫 Institute of Engineering and Management, Kolkata | B.Tech CSE
+
 ---
 
+### 📌 About Me
+- 🔭 Currently working on **AI-driven Crime Detection System, AgroTech AI Platform, and Autonomous Robotics**
+- 🤖 Passionate about **AI, Robotics, and IoT-integrated Smart Solutions**
+- 💡 Building innovative **hardware and software solutions** for real-world problems
+- 🌱 Learning **Data Science, Python, and AI Engineering**
+- 🎯 Goal: **Developing AI/ML-powered autonomous systems for global impact**
+- 📫 Reach me at: **[debojyotidm4@gmail.com] | [Debojyoti De Majumder]**
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=debojyoti10CC&show_icons=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats"/>
 
 
-## About Me
+</div>
 
-I'm Debojyoti De Majumder, a B.Tech CSE student at IEM Kolkata with a passion for robotics, AI, and web development. I have experience in organizing and participating in hackathons such as **IEM SmartMakeathon**, and have been part of multiple large-scale projects like gesture-controlled robots, anti-tremor bands, and autonomous underwater drones. I thrive in environments that challenge me to innovate and learn continuously.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=debojyoti10CC&layout=compact&langs_count=5&theme=dracula" height="150" alt="Most Used Languages"/>
+</div>
 
-## Featured Images
+---
 
-![Robotics Project](https://your-image-link.com/robotics.jpg)  
-*Gesture-controlled Robot Project*
 
-![Web & AI Dashboard](https://your-image-link.com/dashboard.jpg)  
-*AgroTech AI and Anti-Tremor Dashboard*
+### 🏆 Achievements
+- 🚀 **Ranked 35th out of 2000+ teams** at **DevFest AI 2024**
+- 🤝 **Participated in hackathons and project exhibitions at IIT & IEM**
+
+
+---
+
+### 🛠️ Current Projects
+
+- 🌱 **Smart Agriculture AI Platform**
+- 🚑 **Hospital Ambulance GPS Monitoring System**
+- 🤖 **AI-Powered Industrial Automation & Robotics**
+
+---
 
 ## Languages & Frameworks
 
