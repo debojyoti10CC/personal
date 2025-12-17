@@ -1,63 +1,80 @@
 # Hi , I'm Debojyoti De Majumder
 
-## Student at Institute of Engineering & Management (IEM) | 6x Hackathon  | 1x Hackathon winner 🏆| Finalist @BPlan Kshitij | Finalist @IDE Bootcamp Ranchi | 1st Runners up at ICYIM 2025
+<div class="theme-container">
+<div class="page-hero">
+Student at Institute of Engineering & Management (IEM) | 8x Hackathon  | 1x Hackathon winner 🏆| Finalist @BPlan Kshitij | Finalist @IDE Bootcamp Ranchi | 1st Runners up at ICYIM 2025
+</div>
 
 ### 🏫 Institute of Engineering and Management, Kolkata | B.Tech CSE
 
----
+
+
+---  
 ![Me](/logo.jpeg)
 
+---  
+##  Tech Enthusiast | Aspiring AI/ML Engineer | Robotics & Web3 Developer
+
+### 🏫 Education
+| Institution | Degree/Course | Duration | Details |
+| :--- | :--- | :--- | :--- |
+| **Institute of Engineering and Management** (IEM) | B.Tech in Computer Science-AI | Jul 2024 - Jun 2028 | CGPA: 8.89. Coursework: Web Dev, AI, Gen AI, Web 3. |
+| **Indian Institute of Technology Patna** (IITP) | BS in Computer Science | Jul 2024 - Jun 2027 | CGPA: 8.51. Coursework: Statistics, ML Techniques, Data Analysis. |
+
 ---
+
 ### 📌 About Me
-- 🔭 Currently working on **AI-driven Crime Detection System, AgroTech AI Platform, and Autonomous Robotics**
-- 🤖 Passionate about **AI, Robotics, and IoT-integrated Smart Solutions**
-- 💡 Building innovative **hardware and software solutions** for real-world problems
-- 🌱 Learning **Data Science, Python, and AI Engineering**
-- 🎯 Goal: **Developing AI/ML-powered autonomous systems for global impact**
-- 📫 Reach me at: **[debojyotidm4@gmail.com] | [Debojyoti De Majumder]**
+-  Tech enthusiast with proven experience in **AI, robotics, Web3, and full-stack development**.
+-  Known for being highly **dedicated and work-driven** in building impactful, future-ready solutions.
+-  Currently working on **AI-driven Crime Detection System, AgroTech AI Platform, and Autonomous Robotics**.
+-  Passionate about **AI, Robotics, and IoT-integrated Smart Solutions**.
+-  Proven **hackathons performer and event organizer** with leadership experience.
+
+---
+
+### 💻 Key Projects
+| Project Name | Technology Focus | Description |
+| :--- | :--- | :--- |
+| **Mindpal** | VR, Cognitive Training, AI | An immersive VR platform for **cognitive training, stress relief, and mental wellness** using gamified simulations and neurofeedback environments. |
+| **Xencruit** | AI, Computer Vision, NLP | An AI-driven platform for **real-time interview analysis** that evaluates facial expressions, speech tone, engagement, and confidence. |
+| **AlgotimeLock** | Web3, Algorand Smart Contract | A **trustless freelance escrow vault on Algorand** where funds unlock only after project completion or arbiter approval. |
+
+---
+
+### 🛠️ Technologies & Skills
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | C++, C, Python, Javascript, React JS, Next JS, Mongo DB, SQL |
+| **AI/ML & Data** | Jupyter Notebook, Google Colab, Matlab, Power BI |
+| **Web3 & Cloud** | Firebase, Docker, Google Cloud, Metamask, Core Wallet, MCP |
+| **Robotics/IoT**| Raspberry Pi |
+| **Version Control** | Git, Github |
+
+
+
+---
+
+### 🏆 Achievements & Leadership
+* **Hackathons Success:**
+    * **Most Innovative** award at Hack Synthesis 2.0.
+    * **1st Runner up** award at ICYIM 2025.
+    * **Ranked 35th/2000+** teams at DevFest AI 2024.
+    * Finalist at Kshitij IIT Kharagpur.
+    * Participant in Algorand Buildstation, Team1 Avalanche, and more.
+* **Leadership Roles:**
+    * Organizer for Smart Make-A-Thon.
+    * Core Team member for Drone Development Challenge & GDG 2025-26.
+    * Content Lead at Algozenith IEM and Website Creator for IEM Comicverse.
+* **Contributions & Exhibitions:** Active contributor to GSSOC, participant in IIT Tech Exhibition, and rated highly (3.9/5) at IDE Bootcamp Ranchi.
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=debojyoti10CC&show_icons=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats"/>
-
-
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=debojyoti10CC&layout=compact&langs_count=5&theme=dracula" height="150" alt="Most Used Languages"/>
 </div>
 
-
-
-##  Achievements
--  **Ranked 35th out of 2000+ teams** at **DevFest AI 2024**
--  **Participated in hackathons and project exhibitions at IIT & IEM**
--  **1st Runner's Up at ICYIM 2025**
--  **Most Innovative Project at HackSynthesis 2.0**
-
-##  Hackathons and Experience
-
--  **Craftncode Hackathon 2024**
--  **KSHITIJ 2025**
--  **IDE Bootcamp Ranchi 2025**
--  **Hexafalls 2025**
--  **HackSynthesis 2.0**
--  **Smart Make-A-Thon 2025**
--  **Avalanche Team1 Hackathon**
--  **Algorand Buildstation Hackathon**
-
-## Leadership Roles
-
--  **Volunteer – SMF 2024**
--  **Volunteer – Mechtronica 2024**
--  **Volunteer – Innovación 2025**
--  **Core Team Member – DDC 2025**
--  **Coordinator – IEM Comicverse 2025**
--  **Organizer – Smart Make-a-thon 2025**
--  **Core Team Member – GDG IEM**
--  **Content Team Lead – Algozenith IEM**
 
 ## Languages & Frameworks
 
@@ -92,4 +109,5 @@
 <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="60" height="60"/>
 
+</div>
 </div>
